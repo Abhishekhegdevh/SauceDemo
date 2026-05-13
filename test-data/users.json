@@ -1,0 +1,26 @@
+{
+    "validuser1":{
+        "username":"standard_user",
+        "password":"secret_sauce"
+        
+    },
+    "validuser2":{
+        "username":"problem_user",
+        "password":"secret_sauce"
+    },
+    "validuser3":{
+        "username":"error_user",
+        "password":"secret_sauce"
+    },
+    "Invaliduser1":{
+        "username":"error_user7",
+        "password":"secret_sauce",
+        "errormessage": "Epic sadface: Username and password do not match any user in this service"
+    },
+    "Invaliduser2":{
+        "username":"qqq",
+        "password":"secret_sauce1",
+        "errormessage": "Epic sadface: Username and password do not match any user in this service"
+    }
+    
+}
